@@ -1,0 +1,6 @@
+D:\Simple Array Sum\Simple Array Sum\bin\Debug\Simple Array Sum.exe.config
+D:\Simple Array Sum\Simple Array Sum\bin\Debug\Simple Array Sum.exe
+D:\Simple Array Sum\Simple Array Sum\bin\Debug\Simple Array Sum.pdb
+D:\Simple Array Sum\Simple Array Sum\obj\Debug\Simple Array Sum.csprojResolveAssemblyReference.cache
+D:\Simple Array Sum\Simple Array Sum\obj\Debug\Simple Array Sum.exe
+D:\Simple Array Sum\Simple Array Sum\obj\Debug\Simple Array Sum.pdb
