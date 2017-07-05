@@ -31,8 +31,7 @@ namespace QuickSort
             }
 
             Console.WriteLine();
-
-            IComparable[] temperature = { 50, 20, 10, 9, 1 };
+            
 
             Console.ReadLine();
         }
