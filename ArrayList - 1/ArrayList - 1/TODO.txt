@@ -1,0 +1,14 @@
+﻿//TO DO
+items -> initial value of the array hardcoded or use object or generics
+
+- int Add(object) - добавя елемент в края на списъка
+- void Insert(int, object) - добавя елемент на предварително избрана
+позиция в списъка
+- void Clear() – изтрива всички елементи от списъка
+- bool Contains(object) – проверява дали елементът се съдържа в
+списъка
+- void Remove(object) – премахва съответния елемент
+- void RemoveAt(int) – премахва елемента на дадена позиция
+- int IndexOf(object) – връща позицията на елемента
+- this[int] – индексатор, позволяващ достъп на елементите по
+подадена позиция
